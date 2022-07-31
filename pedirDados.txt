@@ -1,0 +1,25 @@
+private static void pedirInformacoes() {
+
+		String str;
+		str = "Informe seu nome";
+		str = JOptionPane.showInputDialog(null, "Informe seu nome: ");
+		while (str == null) {
+			str = JOptionPane.showInputDialog(null, "Informe seu nome: ");
+			str = str.trim();
+			if (str.length() >= 3)
+				break;
+		}
+
+		String resposta;
+		resposta = "Informe seu salário: ";
+		resposta = JOptionPane.showInputDialog(null, "Informe seu salário: ");
+		while (resposta == null ) {
+			resposta = JOptionPane.showInputDialog(null, "Informe seu salário: ");
+			resposta = resposta.trim();
+			if (resposta.length() > 1)
+				break;
+		}
+
+	}
+
+}

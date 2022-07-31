@@ -1,0 +1,9 @@
+1.   Escrever   um   algoritmo    para   determinar   o   consumo   médio   de   um   automóvel  sendo   fornecida   a   distância   total 
+     percorrida pelo automóvel e o total de combustível gasto. 
+	 
+2.   Ler dois valores para as variáveis A e B, e efetuar as trocas dos valores de forma que a variável A passe a possuir o 
+     valor da variável B e a variável B passe a possuir o valor da variável A. Apresentar os valores trocados com no máximo duas variáveis. 	 
+	 
+3.   Elaborar um algoritmo que efetue a apresentação  do valor da conversão em real (R$) de um   valor  lido em dólar 
+     (US$). O algoritmo deverá solicitar o valor da cotação do dólar e também a quantidade de dólares disponíveis com o 
+     usuário. 
